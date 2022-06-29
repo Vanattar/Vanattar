@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vanattar
 - 👀 I’m interested in ... research
 - 🌱 I’m currently learning ... analytics
-- 💞️ I’m looking to collaborate on ... books
+- 💞️ I’m looking to collaborate on ... art
 - 📫 How to reach me ... email
 
 <!---
